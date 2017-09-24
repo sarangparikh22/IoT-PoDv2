@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647372610786",
+    "firebase_url": "https://iot-project-417b4.firebaseio.com",
+    "project_id": "iot-project-417b4",
+    "storage_bucket": "iot-project-417b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647372610786:android:a5dd97222b2c0993",
+        "android_client_info": {
+          "package_name": "com.amithkk.iotcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647372610786-8ejjj3nukq6ap762a5mpvibm1gkk0139.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMZw8Cxrthq1wYeE6htzo2UXj-CHpZUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

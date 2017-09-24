@@ -1,0 +1,8 @@
+PROBLEM STATEMENT : BEING CONNECTED 
+SOLUTION : PLUG AND PLAY HOME AUTOMATION
+PROGRESS :
+1) approached the solution by a sample circuit built on fritzing
+2) designed  a 3D MODEL of the entire circuit such that the end product fits  into a compact sized box
+3) making the hardware part of smart lock
+
+Completed!
